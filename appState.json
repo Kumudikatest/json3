@@ -104,11 +104,10 @@
       "79aaf5be-9aad-4335-86c1-3364d5b00823",
       "a43f6319-6f03-4ca7-a642-160044585f98",
       "7f9f6423-50af-494d-9633-d7a65488a92c",
-      "ff70d06a-ca6b-44fb-b02d-1eecaf52f474",
       "d084a57f-ea11-4ea8-b24b-6b1e49564fee",
-      "e33b8ddc-93e2-467b-9ccb-7a6806d294b1"
+      "ff70d06a-ca6b-44fb-b02d-1eecaf52f474"
     ],
-    "currentFileId": "e33b8ddc-93e2-467b-9ccb-7a6806d294b1",
+    "currentFileId": "ff70d06a-ca6b-44fb-b02d-1eecaf52f474",
     "resources": {},
     "customTemplate": {
       "dialect": null,
@@ -135,7 +134,7 @@
     "projectRegion": "us-east-1",
     "platform": "AWS",
     "platformRegions": {},
-    "lastSave": 1576745418180
+    "lastSave": 1576746010879
   },
   "VCS_STATE": {
     "provider": "GitHub",
