@@ -12,7 +12,8 @@
           "a43f6319-6f03-4ca7-a642-160044585f98",
           "7f9f6423-50af-494d-9633-d7a65488a92c",
           "ff70d06a-ca6b-44fb-b02d-1eecaf52f474",
-          "d084a57f-ea11-4ea8-b24b-6b1e49564fee"
+          "d084a57f-ea11-4ea8-b24b-6b1e49564fee",
+          "8496b525-f1d8-446e-af25-570d38c0cabb"
         ],
         "isRemovable": false,
         "filePath": "json3"
@@ -74,6 +75,28 @@
         "children": [],
         "isRemovable": true,
         "filePath": "json3/txt1.txt"
+      },
+      "8496b525-f1d8-446e-af25-570d38c0cabb": {
+        "id": "8496b525-f1d8-446e-af25-570d38c0cabb",
+        "parent": "ae124f9d-1be0-4114-a968-9db335253d32",
+        "name": "sub1",
+        "type": "DIRECTORY",
+        "isDirectory": true,
+        "children": [
+          "e33b8ddc-93e2-467b-9ccb-7a6806d294b1"
+        ],
+        "isRemovable": true,
+        "filePath": "json3/sub1"
+      },
+      "e33b8ddc-93e2-467b-9ccb-7a6806d294b1": {
+        "id": "e33b8ddc-93e2-467b-9ccb-7a6806d294b1",
+        "parent": "8496b525-f1d8-446e-af25-570d38c0cabb",
+        "name": "jsonin.json",
+        "type": "JSON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "json3/sub1/jsonin.json"
       }
     },
     "rootNode": "ae124f9d-1be0-4114-a968-9db335253d32",
@@ -82,9 +105,10 @@
       "a43f6319-6f03-4ca7-a642-160044585f98",
       "7f9f6423-50af-494d-9633-d7a65488a92c",
       "ff70d06a-ca6b-44fb-b02d-1eecaf52f474",
-      "d084a57f-ea11-4ea8-b24b-6b1e49564fee"
+      "d084a57f-ea11-4ea8-b24b-6b1e49564fee",
+      "e33b8ddc-93e2-467b-9ccb-7a6806d294b1"
     ],
-    "currentFileId": "d084a57f-ea11-4ea8-b24b-6b1e49564fee",
+    "currentFileId": "e33b8ddc-93e2-467b-9ccb-7a6806d294b1",
     "resources": {},
     "customTemplate": {
       "dialect": null,
@@ -111,7 +135,7 @@
     "projectRegion": "us-east-1",
     "platform": "AWS",
     "platformRegions": {},
-    "lastSave": 1576745309316
+    "lastSave": 1576745418180
   },
   "VCS_STATE": {
     "provider": "GitHub",
