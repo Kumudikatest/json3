@@ -1,0 +1,123 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "ae124f9d-1be0-4114-a968-9db335253d32": {
+        "id": "ae124f9d-1be0-4114-a968-9db335253d32",
+        "parent": null,
+        "name": "json3",
+        "type": "DIRECTORY",
+        "isDirectory": true,
+        "children": [
+          "79aaf5be-9aad-4335-86c1-3364d5b00823",
+          "a43f6319-6f03-4ca7-a642-160044585f98",
+          "7f9f6423-50af-494d-9633-d7a65488a92c",
+          "ff70d06a-ca6b-44fb-b02d-1eecaf52f474",
+          "d084a57f-ea11-4ea8-b24b-6b1e49564fee"
+        ],
+        "isRemovable": false,
+        "filePath": "json3"
+      },
+      "79aaf5be-9aad-4335-86c1-3364d5b00823": {
+        "id": "79aaf5be-9aad-4335-86c1-3364d5b00823",
+        "parent": "ae124f9d-1be0-4114-a968-9db335253d32",
+        "name": "lambda.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "json3/lambda.js",
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": []
+        },
+        "triggers": []
+      },
+      "a43f6319-6f03-4ca7-a642-160044585f98": {
+        "id": "a43f6319-6f03-4ca7-a642-160044585f98",
+        "parent": "ae124f9d-1be0-4114-a968-9db335253d32",
+        "name": "html1.html",
+        "type": "HTML_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "json3/html1.html"
+      },
+      "7f9f6423-50af-494d-9633-d7a65488a92c": {
+        "id": "7f9f6423-50af-494d-9633-d7a65488a92c",
+        "parent": "ae124f9d-1be0-4114-a968-9db335253d32",
+        "name": "css1.css",
+        "type": "CSS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "json3/css1.css"
+      },
+      "ff70d06a-ca6b-44fb-b02d-1eecaf52f474": {
+        "id": "ff70d06a-ca6b-44fb-b02d-1eecaf52f474",
+        "parent": "ae124f9d-1be0-4114-a968-9db335253d32",
+        "name": "json1.json",
+        "type": "JSON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "json3/json1.json"
+      },
+      "d084a57f-ea11-4ea8-b24b-6b1e49564fee": {
+        "id": "d084a57f-ea11-4ea8-b24b-6b1e49564fee",
+        "parent": "ae124f9d-1be0-4114-a968-9db335253d32",
+        "name": "txt1.txt",
+        "type": "TEXT_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "json3/txt1.txt"
+      }
+    },
+    "rootNode": "ae124f9d-1be0-4114-a968-9db335253d32",
+    "openFiles": [
+      "79aaf5be-9aad-4335-86c1-3364d5b00823",
+      "a43f6319-6f03-4ca7-a642-160044585f98",
+      "7f9f6423-50af-494d-9633-d7a65488a92c",
+      "ff70d06a-ca6b-44fb-b02d-1eecaf52f474",
+      "d084a57f-ea11-4ea8-b24b-6b1e49564fee"
+    ],
+    "currentFileId": "d084a57f-ea11-4ea8-b24b-6b1e49564fee",
+    "resources": {},
+    "customTemplate": {
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "json3",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "platformRegions": {},
+    "lastSave": 1576745309316
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "json3",
+      "url": "https://github.com/Kumudikatest/json3"
+    }
+  }
+}
